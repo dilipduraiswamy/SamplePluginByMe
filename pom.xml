@@ -108,9 +108,9 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:git://github.com/dilipduraiswamy/SamplePluginByMe.git</connection>
-        <developerConnection>scm:git:ssh://github.com:dilipduraiswamy/SamplePluginByMe.git</developerConnection>
-        <url>http://github.com/dilipduraiswamy/SamplePluginByMe</url>
+        <connection>scm:git:git://github.com/dilipduraiswamy/samplepluginbyme.git</connection>
+        <developerConnection>scm:git:ssh://github.com:dilipduraiswamy/samplepluginbyme.git</developerConnection>
+        <url>http://github.com/dilipduraiswamy/samplepluginbyme</url>
     </scm>
 
     <developers>
