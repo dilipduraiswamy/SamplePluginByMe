@@ -5,7 +5,7 @@
 
 
     <groupId>com.github.dilipduraiswamy</groupId>
-    <artifactId>SamplePluginByMe</artifactId>
+    <artifactId>samplepluginbyme</artifactId>
     <version>1.0.0</version>
 
     <build>
