@@ -1,4 +1,4 @@
-package com.github.dilipduraiswamy;
+package io.github.dilipduraiswamy;
 
 import java.math.BigDecimal;
 

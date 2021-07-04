@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-    <groupId>com.github.dilipduraiswamy</groupId>
+    <groupId>io.github.dilipduraiswamy</groupId>
     <artifactId>samplepluginbyme</artifactId>
     <version>1.0.0</version>
 
