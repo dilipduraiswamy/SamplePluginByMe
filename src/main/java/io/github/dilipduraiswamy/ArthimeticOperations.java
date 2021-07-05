@@ -1,7 +1,10 @@
 package io.github.dilipduraiswamy;
 
 import java.math.BigDecimal;
-
+/**
+ * Really silly class that provides the same functionality as {@link BigDecimal}
+ * itself for simple arithmetic operationsXD
+ */
 public class ArthimeticOperations {
 
     public static BigDecimal add(BigDecimal x, BigDecimal y) {
